@@ -128,10 +128,11 @@ I'm a **Full-Stack Developer** with hands-on experience shipping production feat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aman-113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-113&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=aman-113&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/aman-113?style=for-the-badge&logo=github&color=203a43)](https://github.com/aman-113?tab=followers)
 
 </div>
 
