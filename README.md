@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-khan-portfolio-pearl.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-khan113/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Aman113-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman113)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Aman113-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aman_113)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amank87025@gmail.com)
 
 </div>
@@ -24,7 +24,7 @@ I'm a **Full-Stack Developer** with hands-on experience shipping production feat
 
 - 🏢 Recently built and shipped features for **Guidix.ai**, an AI-driven career platform, at CareerGuide
 - 🔐 Implemented **RSA + AES end-to-end encrypted** real-time messaging
-- 🧠 Interested in applied AI: NLP classification, speech-to-text, and ML-backed services
+- 🧠 Interested in Full Stack Development and AI-assisted software development, with a focus on React.js, Node.js, REST APIs, databases, and building real-world web applications.
 - 🎓 Master of Computer Applications, Galgotias University
 - 🌱 Continuously improving DSA and system design (**300+ LeetCode problems solved**)
 - 📫 **Open to full-stack / backend roles**: [amank87025@gmail.com](mailto:amank87025@gmail.com)
